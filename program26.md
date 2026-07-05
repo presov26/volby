@@ -9,7 +9,9 @@ permalink: /program26/
 * **Revízia daní z nehnuteľností:** Vykonanie komplexnej analýzy a komparácie každej položky dane s inými krajskými mestami (najmä BA a KE). Cieľom je zníženie sadzieb minimálne o 20 % oproti priemeru týchto metropol a ich mestských častí.
 * **Transparentná valorizácia:** Zmena mechanizmu zvyšovania daní a poplatkov. Úpravy sa budú odvíjať výlučne od vývoja štatistických ukazovateľov (priemerné mzdy a dôchodky) priamo na území mesta Prešov, nie na základe celoslovenských priemerov.
 * **Zónovanie mesta:** Rozdelenie územia mesta na zóny podľa zákona č. 582/2004 Z. z. a zavedenie individuálnej regulácie daní. Zásadnou zmenou bude decentralizácia rozhodovania – mestské zastupiteľstvo nebude môcť schváliť zmenu daní a poplatkov v konkrétnej zóne bez súhlasu poslancov zvolených za danú zónu.
+*  **Zníženie výšky poplatku za rovoj** z 25 EUR na max. 15 EUR/m2 pre stavby na bývanie v závislosti od vývoja počtu obyvatelov a vzhľadom na medián tohto poplatu v ostatnyých nestých SR s porovnateľným počtom obyvateľov a ekonomickou sikou obyvateľstva.
 * **Podpora údržby pozemkov:** Zníženie dane z nehnuteľnosti za záhrady a trávnaté plochy o 50 % (vyžaduje schválenie MsZ).
+
 
 ## 2. Verejné služby a „Bonusová karta Prešovčana“
 
@@ -24,7 +26,8 @@ Zavedenie bonusovej rezidentskej karty Prešovčana, ktorí majú riadne a včas
 
 * Zavedenie parkovacích zón a rezidentského parkovania len tam, kde je to nevyhnutné a kde to občania sami požadujú (s výnimkou centrálnej mestskej zóny).
 * Zavedenie dopytovo riadenej MHD
-* Vylúčenie MHD z pešej zóny a trasovanie liniek po 
+* Dostupnejšie a bezpečnejšie centrum: Úprava trasy MHD mimo pešej zóny s cieľom zvýšiť bezpečnosť chodcov a znížiť hlučnosť v centre. Linky budú efektívne presmerované na paralelnú dopravnú sieť (ul. Vajanského, ul. Pražská, ul. Okružná), čím sa zabezpečí plynulejšia premávka bez obmedzenia dostupnosti služieb pre občanov.
+* Samospráva vnútroblokov: Iniciujem proces majetkovoprávneho usporiadania vnútroblokov a priľahlých parkovísk pri bytových domoch. V prípadoch, kde pozemky nie sú súčasťou tranzitnej siete, umožníme ich prevod do vlastníctva alebo dlhodobého prenájmu spoločenstvám vlastníkov bytov. Týmto krokom chceme obyvateľom umožniť efektívnu správu ich bezprostredného okolia pri zachovaní verejného prístupu tam, kde je to nevyhnutné.
 
 
 ## 4. Efektivita a transparentnosť úradu
@@ -42,4 +45,4 @@ Zavedenie bonusovej rezidentskej karty Prešovčana, ktorí majú riadne a včas
 
 ## 5. Podnikanie 
 
-* **Modernizácia a rozvoj:** Zvýšenie objemu investícií do budovania a rozširovania verejnej mestskej infraštruktúry a pokračovanie v rozvoji siete cyklotrás.
+* **Modernizácia a rozvoj:** Podporíme možnosti modernizácie a rozvoja podnikateľských aktivíť v meste Prešov.
