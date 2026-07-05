@@ -6,7 +6,7 @@ permalink: /program26/
 
 ## 1. Daňová oblasť a spravodlivé poplatky
 
-* **Revízia daní z nehnuteľností:** Vykonanie komplexnej analýzy a komparácie každej položky dane vzhľadom na medián rovnakej dane v ostatnyých nestách SR s porovnateľným počtom obyvateľov a ekonomickou sikou obyvateľstva. Cieľom je zníženie sadzieb minimálne o 20 % oproti priemeru porovnateľných metropol a ich mestských častí.
+* **Revízia daní z nehnuteľností:** Vykonanie komplexnej analýzy a komparácie každej položky dane vzhľadom na medián rovnakej dane v ostatnyých nestách SR s porovnateľným počtom obyvateľov a ekonomickou sikou obyvateľstva. Cieľom je zníženie sadzieb minimálne o 20 % oproti priemeru porovnateľných metropol a ich mestských častí, resp. o rozdiel medzi pomerom mediánov miezd a dôchodovkov porovnateľných miest SR.
 * **Transparentná valorizácia:** Zmena mechanizmu zvyšovania daní a poplatkov. Úpravy sa budú odvíjať výlučne od vývoja štatistických ukazovateľov (priemerné mzdy a dôchodky) priamo na území mesta Prešov, nie na základe celoslovenských priemerov a štatistických ukazovateľov 
 * **Zónovanie mesta:** Rozdelenie územia mesta na zóny podľa zákona č. 582/2004 Z. z. a zavedenie individuálnej regulácie daní. Zásadnou zmenou bude decentralizácia rozhodovania – mestské zastupiteľstvo nebude môcť schváliť zmenu daní a poplatkov v konkrétnej zóne bez súhlasu poslancov zvolených za danú zónu.
 *  **Zníženie výšky poplatku za rovoj** z 25 EUR na max. 15 EUR/m2 pre stavby na bývanie v závislosti od vývoja počtu obyvatelov a vzhľadom na medián tohto poplatu v ostatnyých nestách SR s porovnateľným počtom obyvateľov a ekonomickou sikou obyvateľstva.
