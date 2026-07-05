@@ -40,7 +40,7 @@ Zavedenie bonusovej rezidentskej karty Prešovčana, pre všetkých rezedentov m
 
 ## 4. Efektivita a transparentnosť úradu
 
-* **Dodržiavanie termínov:** Zefektívnenie procesov na mestskom úrade s dôrazom dodržiavanie zákonných lehôt a zákonných podmienok s dôrazom na obmedzenia iba zo zákona, t.z. znižovanie byrokracie a nezákonných podmienok a požiadaviek úradov iba podľa svojvôle, resp. ľubovôle úradnikov. 
+* **Dodržiavanie termínov:** Zefektívnenie procesov na mestskom úrade s dôrazom na dodržiavanie zákonných lehôt a podmienok, t.z. znižovanie byrokracie a nezákonných podmienok, resp. požiadaviek úradov nad rámec zákona, iba podľa svojvôle, resp. ľubovôle úradnikov. 
 * **Inteligentné osvetlenie:** Optimalizácia verejného osvetlenia (senzorické technológie reagujúce na pohyb v noci, zníženie intenzity mimo centrálnych zón v čase minimálneho pohybu osôb).
 * **Čistota a poriadok:** Zvýšený dôraz na čistotu frekventovaných lokalít a pravidelnú kontrolu a elimináciu čiernych skládok a protispoločenstkého konania.
 * **Otvorená samospráva:** Povinná a poctivá komunikácia všetkých zámerov mesta ešte pred ich schválením v MsZ. Zverejňovanie otvorených dát a odôvodňovanie investícií.
@@ -53,4 +53,4 @@ Zavedenie bonusovej rezidentskej karty Prešovčana, pre všetkých rezedentov m
 
 ## 5. Podnikanie 
 
-* **Modernizácia a rozvoj:** Podporíme možnosti modernizácie a rozvoja podnikateľských aktivíť v meste Prešov.
+* **Modernizácia a rozvoj:** Podporíme možnosti modernizácie a rozvoja podnikateľských aktivíť v meste Prešov najmä znižovaním daní, poplatkov a zefektívnením procesov pri zohľadnení rozvoja mesta a regiónu jednotlivými podnikateľskými aktivitami. Prenos bremien týkajúcich sa výstavby infraštruktúry preberie späť od podnikateľov mesto, pri význaných investičných projektoch.
