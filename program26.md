@@ -7,7 +7,7 @@ author: "Ing. Matúš Ivanecký"
 show-author: true
 ---
 
-## 1. Daňová oblasť a spravodlivé poplatky
+## 1. Daňová oblasť a primerané poplatky ekonomickej sile obyvateľstva
 
 * **Revízia daní z nehnuteľností:** Vykonanie komplexnej analýzy a komparácie každej položky dane vzhľadom na medián rovnakej dane v ostatnyých nestách SR s porovnateľným počtom obyvateľov a ekonomickou sikou obyvateľstva. Cieľom je zníženie sadzieb minimálne o 20 % oproti priemeru porovnateľných metropol a ich mestských častí, resp. o rozdiel medzi pomerom mediánov miezd a dôchodovkov porovnateľných miest SR.
 * **Transparentná valorizácia:** Zmena mechanizmu zvyšovania daní a poplatkov. Úpravy sa budú odvíjať výlučne od vývoja štatistických ukazovateľov (priemerné mzdy a dôchodky) priamo na území mesta Prešov, nie na základe celoslovenských priemerov a štatistických ukazovateľov 
