@@ -12,7 +12,7 @@ Ing. Matúš Ivanecký predkladá tieto body ako základ pre jeho činnosť, či
 
 ___
 
-## 1. Daňová oblasť a primerané poplatky ekonomickej sile obyvateľstva
+## 1. Daňová oblasť a poplatky primerané ekonomickej sile obyvateľstva
 
 * **Revízia daní z nehnuteľností:** Vykonanie komplexnej analýzy a komparácie každej položky dane vzhľadom na medián rovnakej dane v ostatnyých nestách SR s porovnateľným počtom obyvateľov a ekonomickou sikou obyvateľstva. Cieľom je zníženie sadzieb minimálne o 20 % oproti priemeru porovnateľných metropol a ich mestských častí, resp. o rozdiel medzi pomerom mediánov miezd a dôchodovkov porovnateľných miest SR.
 * **Transparentná valorizácia:** Zmena mechanizmu zvyšovania daní a poplatkov. Úpravy sa budú odvíjať výlučne od vývoja štatistických ukazovateľov (priemerné mzdy a dôchodky) priamo na území mesta Prešov, nie na základe celoslovenských priemerov a štatistických ukazovateľov týkajúcich sa neporovnateľne vyspelejších regiónov metropol v rámci SR.
@@ -23,10 +23,10 @@ ___
 
 ## 2. Verejné služby a „Bonusová karta Prešovčana“
 
-Zavedenie bonusovej rezidentskej karty Prešovčana, ktorí majú riadne a včas uhradené všetky dane a poplatky voči mestu Prešov. Držitelia karty získajú po schválení MsZ  zľavy na:
+Zavedenie bonusovej rezidentskej karty Prešovčana, pre všetkých rezedentov mesta Prešov, ktorí majú riadne a včas uhradené všetky dane a poplatky voči mestu Prešov. Držitelia karty získajú po schválení MsZ zľavy ať do výšky 50% oproti nerezidentom na:
 
 * Vstupy na mestské kúpaliská, športové podujatia a kultúrne akcie organizované mestom.
-* 2 hodiny parkovania denne v ľubovoľnej zóne mesta v cene karty.
+* 2 hodiny parkovania denne v ľubovoľnej zóne mesta v cene karty pre každého držiteľa tejto karty bez ohľadu na SPZ auta. V jeden deň iba pre jednuu SPZ.
 * Zľava pri využití MHD so zakúpenov bonusovou kartou Prešovčana.
 
 
