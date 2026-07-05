@@ -13,15 +13,21 @@ permalink: /program26/
 
 ## 2. Verejné služby a „Bonusová karta Prešovčana“
 
-Zavedenie bonusovej rezidentskej karty Prešovčana, ktorí majú riadne a včas uhradené všetky dane a poplatky voči mestu Prešov. Držitelia karty získajú MsZ schválené zľavy na:
+Zavedenie bonusovej rezidentskej karty Prešovčana, ktorí majú riadne a včas uhradené všetky dane a poplatky voči mestu Prešov. Držitelia karty získajú po schválení MsZ  zľavy na:
 
 * Vstupy na mestské kúpaliská, športové podujatia a kultúrne akcie organizované mestom.
 * 2 hodiny parkovania denne v ľubovoľnej zóne mesta v cene karty.
 * Zľava pri využití MHD.
 * Zavedenie dopytovo riadenej MHD 
-* **Parkovacia politika:** Zavedenie parkovacích zón a rezidentského parkovania len tam, kde je to nevyhnutné a kde to občania sami požadujú (s výnimkou centrálnej mestskej zóny).
 
-## 3. Efektivita a transparentnosť úradu
+## 3. Doprava a parkovacia politika
+
+* Zavedenie parkovacích zón a rezidentského parkovania len tam, kde je to nevyhnutné a kde to občania sami požadujú (s výnimkou centrálnej mestskej zóny).
+* Zavedenie dopytovo riadenej MHD
+* Vylúčenie MHD z pešej zóny a trasovanie liniek po 
+
+
+## 4. Efektivita a transparentnosť úradu
 
 * **Dodržiavanie termínov:** Zefektívnenie procesov na mestskom úrade s dôrazom dodržiavanie zákonných lehôt a zákonných podmienok s dôrazom na obmedzenia iba zo zákona, t.z. znižovanie byrokracie a nezákonných podmienok a požiadaviek úradov iba podľa svojvôle, resp. ľubovôle úradnikov. 
 * **Inteligentné osvetlenie:** Optimalizácia verejného osvetlenia (senzorické technológie reagujúce na pohyb v noci, zníženie intenzity mimo centrálnych zón v čase minimálneho pohybu osôb).
@@ -29,6 +35,11 @@ Zavedenie bonusovej rezidentskej karty Prešovčana, ktorí majú riadne a včas
 * **Otvorená samospráva:** Povinná a poctivá komunikácia všetkých zámerov mesta ešte pred ich schválením v MsZ. Zverejňovanie otvorených dát a odôvodňovanie investícií.
 * **Optimalizácia agendy:** Odbúranie činností, ktoré nie sú vyžadované zákonom a neprinášajú občanom žiadnu pridanú hodnotu.
 
-## 4. Infraštruktúra
+## 5. Infraštruktúra
+
+* **Modernizácia a rozvoj:** Zvýšenie objemu investícií do budovania a rozširovania verejnej mestskej infraštruktúry a pokračovanie v rozvoji siete cyklotrás.
+
+
+## 5. Podnikanie 
 
 * **Modernizácia a rozvoj:** Zvýšenie objemu investícií do budovania a rozširovania verejnej mestskej infraštruktúry a pokračovanie v rozvoji siete cyklotrás.
