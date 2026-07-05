@@ -27,7 +27,7 @@ Zavedenie bonusovej rezidentskej karty Prešovčana, pre všetkých rezedentov m
 
 * Vstupy na mestské kúpaliská, športové podujatia a kultúrne akcie organizované mestom.
 * 2 hodiny parkovania denne v ľubovoľnej zóne mesta v cene karty pre každého držiteľa tejto karty bez ohľadu na SPZ auta. V jeden deň iba pre jednuu SPZ.
-* Zľava pri využití MHD so zakúpenov bonusovou kartou Prešovčana.
+* Zľava pri využití MHD so zakúpenou bonusovou kartou Prešovčana.
 
 
 ## 3. Doprava a parkovacia politika
@@ -41,16 +41,16 @@ Zavedenie bonusovej rezidentskej karty Prešovčana, pre všetkých rezedentov m
 ## 4. Efektivita a transparentnosť úradu
 
 * **Dodržiavanie termínov:** Zefektívnenie procesov na mestskom úrade s dôrazom na dodržiavanie zákonných lehôt a podmienok, t.z. znižovanie byrokracie a nezákonných podmienok, resp. požiadaviek úradov nad rámec zákona, iba podľa svojvôle, resp. ľubovôle úradnikov. 
-* **Inteligentné osvetlenie:** Optimalizácia verejného osvetlenia (senzorické technológie reagujúce na pohyb v noci, zníženie intenzity mimo centrálnych zón v čase minimálneho pohybu osôb).
-* **Čistota a poriadok:** Zvýšený dôraz na čistotu frekventovaných lokalít a pravidelnú kontrolu a elimináciu čiernych skládok a protispoločenstkého konania.
-* **Otvorená samospráva:** Povinná a poctivá komunikácia všetkých zámerov mesta ešte pred ich schválením v MsZ. Zverejňovanie otvorených dát a odôvodňovanie investícií.
+* **Inteligentné osvetlenie:** Optimalizácia verejného osvetlenia (senzorické technológie reagujúce na pohyb v noci, zníženie intenzity osvetlenia na minimum mimo centrálnych zón v čase minimálneho pohybu osôb).
+* **Čistota a poriadok:** Zvýšený dôraz na čistotu frekventovaných lokalít, pravidelnú kontrolu, čistenie a elimináciu čiernych skládok a protispoločenstkého konania  na území mesta Prešov.
+* **Otvorená samospráva:** Povinná a poctivá proaktívna komunikácia všetkých zámerov mesta ešte pred ich schválením v MsZ a komisiých mesta. Zverejňovanie otvorených dát a odôvodňovanie zámerov v dostatočnom predstihu pred ich prejednaním (min 7 dní).
 * **Optimalizácia agendy:** Odbúranie činností, ktoré nie sú vyžadované zákonom a neprinášajú občanom žiadnu pridanú hodnotu.
 
 ## 5. Infraštruktúra
 
-* **Modernizácia a rozvoj:** Zvýšenie objemu investícií do budovania a rozširovania verejnej mestskej infraštruktúry a pokračovanie v rozvoji siete cyklotrás.
+* **Modernizácia a rozvoj:** Zvýšenie objemu investícií do budovania a rozširovania verejnej mestskej infraštruktúry ( parky, verejné zdroje pitnej vody, verejné WC, prístrešia pre ľudí bez domova a ich zapojenie do života spoločnosti) a pokračovanie v rozvoji siete cyklotrás.
 
 
 ## 5. Podnikanie 
 
-* **Modernizácia a rozvoj:** Podporíme možnosti modernizácie a rozvoja podnikateľských aktivíť v meste Prešov najmä znižovaním daní, poplatkov a zefektívnením procesov pri zohľadnení rozvoja mesta a regiónu jednotlivými podnikateľskými aktivitami. Prenos bremien týkajúcich sa výstavby infraštruktúry preberie späť od podnikateľov mesto, pri význaných investičných projektoch.
+* **Modernizácia a rozvoj:** Podporíme možnosti modernizácie a rozvoja podnikateľských aktivíť v meste Prešov najmä znižovaním daní, poplatkov a zefektívnením procesov pri zohľadnení rozvoja mesta a regiónu jednotlivými podnikateľskými aktivitami. Prenos bremien týkajúcich sa výstavby infraštruktúry späť z podnikateľov na mesto, najmä pri význaných investičných projektoch.
