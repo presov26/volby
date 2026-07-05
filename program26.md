@@ -7,6 +7,11 @@ author: "Ing. Matúš Ivanecký"
 show-author: true
 ---
 
+
+Ing. Matúš Ivanecký predkladá tieto body ako základ pre jeho činnosť, či už ako poslanca, alebo primátora mesta Prešov a aj ako dôvod pre jeho kandidatúru do týchto verejných funkcií.
+
+___
+
 ## 1. Daňová oblasť a primerané poplatky ekonomickej sile obyvateľstva
 
 * **Revízia daní z nehnuteľností:** Vykonanie komplexnej analýzy a komparácie každej položky dane vzhľadom na medián rovnakej dane v ostatnyých nestách SR s porovnateľným počtom obyvateľov a ekonomickou sikou obyvateľstva. Cieľom je zníženie sadzieb minimálne o 20 % oproti priemeru porovnateľných metropol a ich mestských častí, resp. o rozdiel medzi pomerom mediánov miezd a dôchodovkov porovnateľných miest SR.
