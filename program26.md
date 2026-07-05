@@ -2,6 +2,9 @@
 layout: page
 title: "Programové priority pre rozvoj mesta Prešov"
 permalink: /program26/
+tags: 2026 volby
+author: "Ing. Matúš Ivanecký"
+show-author: true
 ---
 
 ## 1. Daňová oblasť a spravodlivé poplatky
